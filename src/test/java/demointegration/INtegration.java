@@ -11,7 +11,7 @@ public class INtegration {
 		public void sum() {
 			int a = 10;
 			int b=20;
-			Assert.assertEquals(30, a+b);
+			Assert.assertEquals(330, a+b);
 		}
 
 		@Test
